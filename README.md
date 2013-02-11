@@ -1,8 +1,9 @@
-DIYHistory-transcribe
+DIY Transcription Site
 =====================
 
-### Overview 
+DIYHistory is built upon the open-source generosity of George Mason University's [Center for History and New Media](http://chnm.gmu.edu/), so we feel it's only right to give our sourcecode out to organizations and individuals interested in implementing their own crowdsourcing initiatives. Anyone who can install Omeka and MediaWiki on a web server can easily get started with their own branded version of DIYHistory|transcribe with little to no programmer time. If you find our code useful and build further upon it, we'd love to receive your pull requests at [github.com/ui-libraries](https://github.com/ui-libraries).
 
+##Overview
 [DIYHistory|transcribe](http://diyhistory.lib.uiowa.edu/transcribe) is a tool for engaging users in transcribing handwritten documents, making them more searchable and enhancing them for research. [DIYHistory|transcribe](http://diyhistory.lib.uiowa.edu/transcribe) is built on the [Omeka](http://omeka.org/) content management system and uses the [Scripto](http://scripto.org/) plugin to facilitate transcription. [Scripto](http://scripto.org/) uses [MediaWiki](http://www.mediawiki.org/wiki/MediaWiki), which allows users to continually improve upon work that has already been done. In building this site, we made significant additions to the Scripto plugin, created a new Omeka theme, and customized other Omeka plugins to style and scale for a library production environment.
 
 [DIYHistory|transcribe](http://diyhistory.lib.uiowa.edu/transcribe) requires the following:
