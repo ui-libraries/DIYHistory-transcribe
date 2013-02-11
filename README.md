@@ -6,6 +6,7 @@ DIYHistory is built upon the open-source generosity of George Mason University's
 ##Overview
 [DIYHistory|transcribe](http://diyhistory.lib.uiowa.edu/transcribe) is a tool for engaging users in transcribing handwritten documents, making them more searchable and enhancing them for research. [DIYHistory|transcribe](http://diyhistory.lib.uiowa.edu/transcribe) is built on the [Omeka](http://omeka.org/) content management system and uses the [Scripto](http://scripto.org/) plugin to facilitate transcription. [Scripto](http://scripto.org/) uses [MediaWiki](http://www.mediawiki.org/wiki/MediaWiki), which allows users to continually improve upon work that has already been done. In building this site, we made significant additions to the Scripto plugin, created a new Omeka theme, and customized other Omeka plugins to style and scale for a library production environment.
 
+##Requirements
 [DIYHistory|transcribe](http://diyhistory.lib.uiowa.edu/transcribe) requires the following:
 
 - [Omeka version 1.5](http://omeka.org/codex/Version_History)
@@ -13,7 +14,7 @@ DIYHistory is built upon the open-source generosity of George Mason University's
 - [ui-libraries/plugin-Scripto](https://github.com/ui-libraries/plugin-Scripto), a fork of CHNM’s Scripto tool for crowdsourced transcription of documents. Scripto requires a [MediaWiki](http://www.mediawiki.org/wiki/MediaWiki) installation.
 - [Scribe](https://github.com/ui-libraries/Scribe), a custom Omeka theme designed for use with ui-libraries/plugin-Scripto
 
-
+##Features
 [DIYHistory|transcribe](http://diyhistory.lib.uiowa.edu/transcribe) introduces the following features to plugin-Scripto:
 
 - Track completion status of document pages (i.e., ‘Not Started’, ‘Needs Review’, ‘Completed’)
@@ -27,5 +28,5 @@ The [Scribe](https://github.com/ui-libraries/Scribe) theme directs its focus on 
 
 By default, any member of the public is allowed to edit and save transcription data, but only users with an account can track their progress. Approved account holders can also be granted administrator (or deputy) status, allowing them to finalize documents as “complete”.
 
-### Installation
+## Installation
 Follow the documentation at each source code repository to install [Omeka 1.5](http://omeka.org/codex/Version_History), [ui-libraries/plugin-CsvImport](https://github.com/ui-libraries/plugin-CsvImport), [ui-libraries/plugin-Scripto](https://github.com/ui-libraries/plugin-Scripto) + [MediaWiki](http://www.mediawiki.org/wiki/MediaWiki), and [Scribe](https://github.com/ui-libraries/Scribe). 
