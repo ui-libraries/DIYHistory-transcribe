@@ -30,4 +30,4 @@ The [Scribe](https://github.com/ui-libraries/Scribe) theme directs its focus on 
 By default, any member of the public is allowed to edit and save transcription data, but only users with an account can track their progress. Approved account holders can also be granted administrator (or deputy) status, allowing them to finalize documents as “complete”.
 
 ## Installation
-Follow the documentation at each source code repository to install [Omeka 1.5](http://omeka.org/codex/Version_History), [ui-libraries/plugin-CsvImport](https://github.com/ui-libraries/plugin-CsvImport), [ui-libraries/plugin-Scripto](https://github.com/ui-libraries/plugin-Scripto) + [MediaWiki](http://www.mediawiki.org/wiki/MediaWiki), and [Scribe](https://github.com/ui-libraries/Scribe). 
+Follow the documentation at each source code repository to install [Omeka 2](http://omeka.org/codex/Version_History), [ui-libraries/plugin-CsvImport](https://github.com/ui-libraries/plugin-CsvImport), [ui-libraries/plugin-Scripto](https://github.com/ui-libraries/plugin-Scripto) + [MediaWiki](http://www.mediawiki.org/wiki/MediaWiki), and [Scribe](https://github.com/ui-libraries/Scribe). 
