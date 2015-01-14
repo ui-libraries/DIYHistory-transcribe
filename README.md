@@ -11,7 +11,7 @@ DIYHistory is built upon the open-source generosity of George Mason University's
 
 - [Omeka version 2.x](http://omeka.org/codex/Version_History)
 - [Omeka Dublin Core Extended plugin] (http://omeka.org/add-ons/plugins/dublin-core-extended/)
-- [ui-libraries/plugin-CsvImport](https://github.com/ui-libraries/plugin-CsvImport), a fork of Omeka’s CsvImport that allows bulk upload of item and file-level metadata
+- [Daniel-KM/CsvImport](https://github.com/Daniel-KM/CsvImport), a fork of Omeka’s CsvImport that allows bulk upload of item and file-level metadata
 - [ui-libraries/plugin-Scripto](https://github.com/ui-libraries/plugin-Scripto), a fork of CHNM’s Scripto tool for crowdsourced transcription of documents. Scripto requires a [MediaWiki](http://www.mediawiki.org/wiki/MediaWiki) installation.
 - [Scribe](https://github.com/ui-libraries/Scribe), a custom Omeka theme designed for use with ui-libraries/plugin-Scripto
 
